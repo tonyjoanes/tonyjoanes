@@ -1,10 +1,13 @@
-# Welcome
+# Tony Joanes
 
 ### Certificates
 
 I try to keep myself upto date and enjoy taking courses and reading up on technology trends, here are some of the things I have been doing.
 
-![SpiceUpC](SpiceupyourC#.jpg)
+![SpiceupyourC#](https://user-images.githubusercontent.com/6114264/126488881-dcac5ecd-57dd-424d-ab84-6c074c1ea3a6.jpg)
+![UdemyDockerMasterywithKubernetescoursecertificate](https://user-images.githubusercontent.com/6114264/126488965-f02f2af7-da0f-4119-b897-e2a588611525.jpg)
+![UdemyKubernetesforbeginnerscoursecertificate](https://user-images.githubusercontent.com/6114264/126488971-242810ea-b5a9-43f6-9df6-f02f6714a169.jpg)
+
 
 <!--
 **tonyjoanes/tonyjoanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
