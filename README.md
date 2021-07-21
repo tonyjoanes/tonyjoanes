@@ -1,5 +1,19 @@
 # Tony Joanes
 
+## Work History
+
+*Current* **Elekta - Technical Lead**
+
+I am currently working as a `Tech Lead` of an engineering scrum team which form part of a large enterprise digital transformation development effort.
+
+We focus on building software utilising Kubernetes, Cross Platform C# .NET Core Microservices and Angular micro front ends. We are using a mixture of Ubuntu and Windows development environments. My main objectives are to keep the team delivering quality solutions to problems and maintaining close communications with other teams plus product, architecture and enterprise architecture teams.
+
+I have played a key rold in recruitment for the new project and have streamlined the processes and introduced new methods to help interview candidates.
+
+While the project was in its initial phases I took on the role of a Product Owner as well as Tech Lead and Scrum Master.
+
+I have been working very closely with enterprise and system architects to help drive out the design of our solutions and ensuring we're in alignement with the rest of the enterprise and using best practices.
+
 ## Example Projects
 
 ### Pet API
