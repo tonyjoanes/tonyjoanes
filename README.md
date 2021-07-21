@@ -4,7 +4,7 @@
 
 I try to keep myself upto date and enjoy taking courses and reading up on technology trends, here are some of the things I have been doing.
 
-![SpiceUpC]('SpiceupyourC#.jpg)
+![SpiceUpC](SpiceupyourC#.jpg)
 
 <!--
 **tonyjoanes/tonyjoanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
