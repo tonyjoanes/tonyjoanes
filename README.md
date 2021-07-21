@@ -1,5 +1,13 @@
 # Tony Joanes
 
+## Example Projects
+
+### Pet API
+
+An example of a .NET Core Web API project
+
+[https://github.com/tonyjoanes/pets-api](https://github.com/tonyjoanes/pets-api)
+
 ### Certificates
 
 I try to keep myself upto date and enjoy taking courses and reading up on technology trends, here are some of the things I have been doing.
