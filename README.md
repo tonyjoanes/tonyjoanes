@@ -6,19 +6,13 @@ Please view my LinkedIn page for work history information [IN/anthonyjoanes](htt
 
 ## Example Projects
 
-### Pet API
-
-An example of a .NET Core Web API project
-
-[https://github.com/tonyjoanes/pets-api](https://github.com/tonyjoanes/pets-api)
-
-## Private Helm Chart Repository
+### Private Helm Chart Repository
 
 Here I was playing around with a custom helm chart repository hosted in my own GitHub repo.
 
 [https://github.com/tonyjoanes/amct-helm-chart](https://github.com/tonyjoanes/amct-helm-chart)
 
-### Certificates
+#### Certificates
 
 I try to keep myself upto date and enjoy taking courses and reading up on technology trends, here are some of the things I have been doing.
 
