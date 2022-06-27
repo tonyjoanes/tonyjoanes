@@ -1,11 +1,17 @@
 # Tony Joanes
 
+This repository is kind of a central repo for all my useful stuff to make me a productive software engineer, tech lead and manager.
+
 ## My useful stuff
 
-[Useful Dev Stuff](tree/main/useful)  
-[Architecture resources](tree/main/architecture)  
-[Programming resources](tree/main/programming)  
-[Handy Management Resources](tree/main/management)
+[Useful Dev Stuff](https://github.com/tonyjoanes/tonyjoanes/tree/master/useful)  
+[Architecture resources](https://github.com/tonyjoanes/tonyjoanes/tree/master/architecture)  
+[Programming resources]([tree/main/programming](https://github.com/tonyjoanes/tonyjoanes/tree/master/programming))  
+[Handy Management Resources](https://github.com/tonyjoanes/tonyjoanes/tree/master/management)
+
+## My useful playground
+
+[ArgoCD Playground](https://github.com/tonyjoanes/tonyjoanes/tree/master/playgrounds/argocd)
 
 ## Work History
 
