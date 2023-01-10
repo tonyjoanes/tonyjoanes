@@ -1,13 +1,10 @@
 # Tony Joanes
 
-This repository is kind of a central repo for all my useful stuff to make me a productive software engineer, tech lead and manager.
+Welcome to my github pages
 
 ## My useful stuff
 
-[Useful Dev Stuff](https://github.com/tonyjoanes/tonyjoanes/tree/master/useful)  
-[Architecture resources](https://github.com/tonyjoanes/tonyjoanes/tree/master/architecture)  
-[Programming resources]([tree/main/programming](https://github.com/tonyjoanes/tonyjoanes/tree/master/programming))  
-[Handy Management Resources](https://github.com/tonyjoanes/tonyjoanes/tree/master/management)
+All my useful resources are in one handy repository that I call my toolbox. You can view it here: [toolbox](https://github.com/tonyjoanes/toolbox/blob/main/README.md)
 
 ## My useful playground
 
@@ -16,6 +13,8 @@ This repository is kind of a central repo for all my useful stuff to make me a p
 ## Work History
 
 Please view my LinkedIn page for work history information [IN/anthonyjoanes](https://www.linkedin.com/in/anthonyjoanes/)
+
+You can view my CV here: [Tony Joanes CV](https://github.com/tonyjoanes/toolbox/blob/main/career/Tony%20Joanes.md)
 
 ## Example Projects
 
