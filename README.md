@@ -1,49 +1,23 @@
 # Tony Joanes
 
-Welcome to my github pages
+## Summary
+I am a software development expert with extensive experience in web and mobile application development, Kubernetes, and distributed architecture. My expertise includes various technologies and frameworks, such as C#, AngularJS, Cordova, TypeScript, ReactJS, Redux, ASP.NET MVC, and Cross Platform C# .Net Core Microservices. I have held various roles including Engineering Manager, Technical Lead, and Contract Software Engineer, which allowed me to work on diverse projects across multiple industries.
 
-## My useful stuff
+### Experience
+#### Engineering Manager/Technical Lead/Contract Software Engineer
 
-All my useful resources are in one handy repository that I call my toolbox. You can view it here: [toolbox](https://github.com/tonyjoanes/toolbox/blob/main/README.md)
+- Led cross-functional development teams to deliver high-quality software applications using Agile methodologies.
+- Managed the full software development lifecycle, from requirement gathering to deployment and maintenance.
+- Worked on diverse projects across multiple industries, including finance, healthcare, and e-commerce.
+- Demonstrated strong skills in team management, recruitment, and agile software development processes.
+- Delivered software applications, ranging from mobile apps and web applications to large-scale enterprise systems built using Kubernetes and distributed architecture.
+- Developed and maintained applications using C#, AngularJS, Cordova, TypeScript, ReactJS, Redux, and ASP.NET MVC.
 
-## My useful playground
-
-[ArgoCD Playground](https://github.com/tonyjoanes/tonyjoanes/tree/master/playgrounds/argocd)
-
-## Work History
-
-Please view my LinkedIn page for work history information [IN/anthonyjoanes](https://www.linkedin.com/in/anthonyjoanes/)
-
-You can view my CV here: [Tony Joanes CV](https://github.com/tonyjoanes/toolbox/blob/main/career/Tony%20Joanes.md)
-
-## Example Projects
-
-### Private Helm Chart Repository
-
-Here I was playing around with a custom helm chart repository hosted in my own GitHub repo.
-
-[https://github.com/tonyjoanes/amct-helm-chart](https://github.com/tonyjoanes/amct-helm-chart)
-
-<!-- #### Certificates
-
-I try to keep myself upto date and enjoy taking courses and reading up on technology trends, here are some of the things I have been doing.
-
-![SpiceupyourC#](https://user-images.githubusercontent.com/6114264/126488881-dcac5ecd-57dd-424d-ab84-6c074c1ea3a6.jpg)
-![UdemyDockerMasterywithKubernetescoursecertificate](https://user-images.githubusercontent.com/6114264/126488965-f02f2af7-da0f-4119-b897-e2a588611525.jpg)
-![UdemyKubernetesforbeginnerscoursecertificate](https://user-images.githubusercontent.com/6114264/126488971-242810ea-b5a9-43f6-9df6-f02f6714a169.jpg) -->
-
-
-<!--
-**tonyjoanes/tonyjoanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Web and Mobile Application Development
+- Kubernetes and Distributed Architecture
+- C#, AngularJS, Cordova, TypeScript, ReactJS, Redux, ASP.NET MVC, and Cross Platform C# .Net Core Microservices
+- Agile Software Development Processes
+- Team Management and Recruitment
+- Effective Communication and Collaboration with Clients and Stakeholders
+- Software Engineering Best Practices
