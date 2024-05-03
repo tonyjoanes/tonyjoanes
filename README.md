@@ -41,8 +41,16 @@ I am a software development expert with extensive experience in web and mobile a
 
 ## Certificates
 
-I believe in continuous learning and therefore am always studying technologies and skills. I believe the better tour toolset the better yo
-<img src="https://github.com/tonyjoanes/tonyjoanes/blob/master/Udemy%20Docker%20Mastery%20with%20Kubernetes%20course%20certificate.jpg" alt="Docker Mastery with Kubernetes" width="30%">
-<img src="https://github.com/tonyjoanes/tonyjoanes/blob/master/Udemy%20Kubernetes%20for%20beginners%20course%20certificate.jpg" width="30%">
-<img src="https://github.com/tonyjoanes/tonyjoanes/blob/master/UdemyDockerMasterywithKubernetescoursecertificate.jpg" width="30%">
-<img src="https://github.com/tonyjoanes/tonyjoanes/blob/master/UdemyKubernetesforbeginnerscoursecertificate.jpg" width="30%">
+I believe in continuous learning and therefore am always studying technologies and skills.  
+<img src="Udemy%20Docker%20Mastery%20with%20Kubernetes%20course%20certificate.jpg" alt="Docker Mastery with Kubernetes" width="30%">
+<img src="UdemyDockerMasterywithKubernetescoursecertificate.jpg" width="30%">
+<img src="UdemyKubernetesforbeginnerscoursecertificate.jpg" width="30%">
+<img src="chat-gpt.jpg" width="30%">
+<img src="helm package manager.jpg" width="30%">
+<img src="maui-mobile-development.jpg" width="30%">
+<img src="microservices.jpg" width="30%">
+<img src="software architecture guide.jpg" width="30%">
+
+### Other
+
+<img src="first aid course.jpg" width="30%">
