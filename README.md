@@ -24,3 +24,5 @@ I am a software development expert with extensive experience in web and mobile a
 - Team Management and Recruitment
 - Effective Communication and Collaboration with Clients and Stakeholders
 - Software Engineering Best Practices
+
+## Certificates
