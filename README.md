@@ -1,7 +1,7 @@
 # Tony Joanes
 
-[Tony Joanes - LinkedIn](https://www.linkedin.com/in/anthonyjoanes/)  
-[Tony Joanes - Medium](https://medium.com/@anthonyjoanes_72638)
+[LinkedIn](https://www.linkedin.com/in/anthonyjoanes/)  
+[Substack](https://tonyjoanes.substack.com/)
 
 ## Summary
 I am a software development expert with extensive experience in web and mobile application development, Kubernetes, and distributed architecture. My expertise includes various technologies and frameworks, such as C#, AngularJS, Cordova, TypeScript, ReactJS, Redux, ASP.NET MVC, and Cross Platform C# .Net Core Microservices. I have held various roles including Engineering Manager, Technical Lead, and Contract Software Engineer, which allowed me to work on diverse projects across multiple industries.
