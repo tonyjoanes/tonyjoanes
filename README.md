@@ -25,4 +25,24 @@ I am a software development expert with extensive experience in web and mobile a
 - Effective Communication and Collaboration with Clients and Stakeholders
 - Software Engineering Best Practices
 
+## Tech Stack
+
+### Languages
+
+![My Skills](https://skillicons.dev/icons?i=dotnet,cs,html,js,ts,react)
+
+### Tools
+
+![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,windows,obsidian,linux,npm,nginx,postman)
+
+### Cloud
+
+![My Skills](https://skillicons.dev/icons?i=azure,kubernetes,docker,powershell,)
+
 ## Certificates
+
+I believe in continuous learning and therefore am always studying technologies and skills. I believe the better tour toolset the better yo
+<img src="https://github.com/tonyjoanes/tonyjoanes/blob/master/Udemy%20Docker%20Mastery%20with%20Kubernetes%20course%20certificate.jpg" alt="Docker Mastery with Kubernetes" width="30%">
+<img src="https://github.com/tonyjoanes/tonyjoanes/blob/master/Udemy%20Kubernetes%20for%20beginners%20course%20certificate.jpg" width="30%">
+<img src="https://github.com/tonyjoanes/tonyjoanes/blob/master/UdemyDockerMasterywithKubernetescoursecertificate.jpg" width="30%">
+<img src="https://github.com/tonyjoanes/tonyjoanes/blob/master/UdemyKubernetesforbeginnerscoursecertificate.jpg" width="30%">
