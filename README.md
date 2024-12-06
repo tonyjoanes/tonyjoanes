@@ -42,6 +42,7 @@ I am a software development expert with extensive experience in web and mobile a
 ## Certificates
 
 I believe in continuous learning and therefore am always studying technologies and skills.  
+<img src="blockchain-for-business.jpg" alt="blockchain-for-business.jpg" width="30%2>
 <img src="Udemy_Project_Management_Course.jpg" alt="Udemy_Project_Management_Course.jpg" width="30%">
 <img src="Udemy%20Docker%20Mastery%20with%20Kubernetes%20course%20certificate.jpg" alt="Docker Mastery with Kubernetes" width="30%">
 <img src="UdemyDockerMasterywithKubernetescoursecertificate.jpg" width="30%">
