@@ -7,6 +7,12 @@
 ## Summary
 I am a software development expert with extensive experience in web and mobile application development, Kubernetes, and distributed architecture. My expertise includes various technologies and frameworks, such as C#, AngularJS, Cordova, TypeScript, ReactJS, Redux, ASP.NET MVC, and Cross Platform C# .Net Core Microservices. I have held various roles including Engineering Manager, Technical Lead, and Contract Software Engineer, which allowed me to work on diverse projects across multiple industries.
 
+### Recent interests
+
+I am taking a course in LLM Engineering and have a huge interest in AI. I belive the future is going to be huge for AI and BlockChain technology so in my spare time I study theses.
+
+### Github Status (for fun)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=tonyjoanes) 
 ![GitHub Contributions](https://img.shields.io/github/commit-activity/m/tonyjoanes/lucyslearning)   
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/tonyjoanes/lucyslearning)  
