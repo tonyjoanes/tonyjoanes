@@ -19,7 +19,8 @@ I am a software development expert with extensive experience in web and mobile a
 ### Skills
 - Web and Mobile Application Development
 - Kubernetes and Distributed Architecture
-- C#, AngularJS, Cordova, TypeScript, ReactJS, Redux, ASP.NET MVC, and Cross Platform C# .Net Core Microservices
+- AI and LLM engineering
+- C#, Python, AngularJS, Cordova, TypeScript, ReactJS, Redux, ASP.NET MVC, and Cross Platform C# .Net Core Microservices
 - Agile Software Development Processes
 - Team Management and Recruitment
 - Effective Communication and Collaboration with Clients and Stakeholders
@@ -29,7 +30,7 @@ I am a software development expert with extensive experience in web and mobile a
 
 ### Languages
 
-![My Skills](https://skillicons.dev/icons?i=dotnet,cs,html,js,ts,react)
+![My Skills](https://skillicons.dev/icons?i=dotnet,cs,html,js,ts,react,py,anaconda)
 
 ### Tools
 
