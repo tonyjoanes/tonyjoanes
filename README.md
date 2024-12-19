@@ -1,10 +1,17 @@
 # Tony Joanes
 
-[LinkedIn](https://www.linkedin.com/in/anthonyjoanes/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonyjoanes/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/tonyjoanes)
 [Substack](https://tonyjoanes.substack.com/)
 
 ## Summary
 I am a software development expert with extensive experience in web and mobile application development, Kubernetes, and distributed architecture. My expertise includes various technologies and frameworks, such as C#, AngularJS, Cordova, TypeScript, ReactJS, Redux, ASP.NET MVC, and Cross Platform C# .Net Core Microservices. I have held various roles including Engineering Manager, Technical Lead, and Contract Software Engineer, which allowed me to work on diverse projects across multiple industries.
+
+![Profile Views](https://komarev.com/ghpvc/?username=tonyjoanes) 
+![GitHub Contributions](https://img.shields.io/github/commit-activity/m/tonyjoanes/lucyslearning)   
+![GitHub Last Commit](https://img.shields.io/github/last-commit/tonyjoanes/lucyslearning)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyjoanes)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Experience
 #### Engineering Manager/Technical Lead/Contract Software Engineer
