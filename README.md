@@ -56,6 +56,7 @@ I am taking a course in LLM Engineering and have a huge interest in AI. I belive
 ## Certificates
 
 I believe in continuous learning and therefore am always studying technologies and skills.  
+<img src="dometrain-clean-architecture.jpg" alt="dometrain-clean-architecture.jpg" width="30%">
 <img src="UC-66731897-47db-420e-9683-5d249dbd476a.jpg" alt="Management skills certification with AI" width="30%">
 <img src="blockchain-for-business.jpg" alt="blockchain-for-business.jpg" width="30%">
 <img src="Udemy_Project_Management_Course.jpg" alt="Udemy_Project_Management_Course.jpg" width="30%">
