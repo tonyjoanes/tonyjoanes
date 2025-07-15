@@ -14,8 +14,8 @@ I am taking a course in LLM Engineering and have a huge interest in AI. I belive
 ### Github Status (for fun)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tonyjoanes) 
-![GitHub Contributions](https://img.shields.io/github/commit-activity/m/tonyjoanes/lucyslearning)   
-![GitHub Last Commit](https://img.shields.io/github/last-commit/tonyjoanes/lucyslearning)  
+![GitHub Contributions](https://img.shields.io/github/commit-activity/m/tonyjoanes/fluentazure)   
+![GitHub Last Commit](https://img.shields.io/github/last-commit/tonyjoanes/fluentazure)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyjoanes)](https://github.com/anuraghazra/github-readme-stats)
 
 
