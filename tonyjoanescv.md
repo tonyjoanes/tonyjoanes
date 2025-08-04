@@ -12,6 +12,13 @@ Experienced Engineering Manager with over 20 years in software development, spec
 
 ### Professional Experience
 
+#### Application Technical Lead | Peoples Partnership
+*March 2025 – Present*
+- Lead and manage a team of 6 engineers, working with Azure and C# services
+- Translate high-level designs into low-level actionable work items for development teams
+- Oversee security scanning and resolution of vulnerabilities
+- Ensure technical standards and best practices are maintained across projects
+
 #### Engineering Manager | Mews Systems
 *London, UK | September 2022 - Present*
 - Lead development teams in building cloud-based property management software
